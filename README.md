@@ -1,2 +1,2 @@
 # hello-world-
-An pleasant start!
+A pleasant start!
